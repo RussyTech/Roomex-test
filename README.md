@@ -6,7 +6,7 @@
 
 **To run test - WebAutomation**
 
-1 - Navigate to root directory and install package
+1 - Navigate to root directory
 
 2 - install packages, run the following command 
 - npm install
@@ -22,7 +22,7 @@
 
 **To run test - APIAutomation**
 
-1 - Navigate to root directory and install dependencies
+1 - Navigate to root directory
 
 2 - install dependencies, run :
 - dotnet build
