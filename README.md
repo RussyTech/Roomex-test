@@ -22,6 +22,8 @@
 
 **To run test - APIAutomation**
 
+*Using VSCode*
+
 1 - Navigate to root directory
 
 2 - install dependencies, run :
@@ -29,3 +31,9 @@
 
 3 - run test, run:
 - dotnet test
+
+*Using Visual Studio*
+
+- Build the project
+- Open test explorer
+- click the green button
